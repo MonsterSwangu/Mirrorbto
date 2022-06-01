@@ -630,4 +630,4 @@ Where host is the name of extractor (eg. instagram, Twitch). Multiple accounts o
 
 ## Credits
 
-<b><i>Miss Emily</i></b>
+<b><i>I wont give. Just Fuck off!</i></b>
