@@ -3,7 +3,7 @@ import string
 from os import makedirs
 from threading import Event
 
-from mega import MegaError, MegaListener, MegaRequest, MegaTransfer, MegaApi
+from mega import MegaApi, MegaError, MegaListener, MegaRequest, MegaTransfer
 
 from bot import (
     LOGGER,
